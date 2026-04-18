@@ -11,7 +11,7 @@
 > built for farmers, agronomists, and researchers who work where the internet doesn't.**
 
 <p align="center">
-  <img src="assets/dashboard_preview.png" alt="Plant Pathology Suite Dashboard" width="100%"/>
+  <img src="Assets/dashboard_preview.png" alt="Plant Pathology Suite Dashboard" width="100%"/>
 </p>
 
 ---
